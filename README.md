@@ -1,2 +1,2 @@
 # AluraCast
- Site desenvolvidor para estudar Grid
+ Site desenvolvido para estudar Grid
